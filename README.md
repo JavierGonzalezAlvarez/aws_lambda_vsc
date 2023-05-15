@@ -1,4 +1,4 @@
-#  lambda in AWS from VSC $ SAM cli
+#  lambda in AWS from VSC & SAM cli
 
 * $ aws configure
 ...
